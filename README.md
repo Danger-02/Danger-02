@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+### About Myself : 
 
 - 🎓 B.Tech in Mechanical Engineering @ MNNIT Allahabad (2023–27)
 - 🛠️ Core focus — Mechanical Design, Structural Analysis (FEA), and Suspension Systems
