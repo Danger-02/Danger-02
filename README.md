@@ -1,57 +1,85 @@
-<h1 align="center">Hi, I'm Chaitanya Vishal Gajbhiye </h1>
-<h3 align="center">Mechanical Engineering Student at MNNIT Allahabad</h3>
+<h1 align="center">Hi 👋, I'm Chaitanya Vishal Gajbhiye</h1>
+<h3 align="center">Mechanical Design & Analysis Engineer · Suspension & Chassis Systems · B.Tech @ MNNIT Allahabad</h3>
 
-<p align="center">
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech in Mechanical Engineering @ MNNIT Allahabad (2023–27)
+- 🛠️ Core focus — Mechanical Design, Structural Analysis (FEA), and Suspension Systems
+- 🏎️ Design, Analysis & Suspension Department Member — SAE India Collegiate Club, MNNIT
+- 🔩 Built a complete Shock Absorber Suspension Assembly in SolidWorks + validated it via Static Structural FEA in Ansys
+- 🚲 Designed and fabricated a Cargo Trike from CAD to a welded, functional physical prototype
+- 🏭 Industrial training at Koradi Thermal Power Station (MAHAGENCO) and Central Railway (C&W, Ajni)
+- 🥈 2× Podium Finishes — Blueprint 2024 & DoodleBot 2024 (Avishkar Technical Fest, MNNIT)
+- 🎯 Open to Design Engineering & Mechanical Internship Opportunities
+
+---
+
+### 🛠 Tech Stack
+
+**Design & Modeling**
+
+SolidWorks · AutoCAD
+
+**Simulation & Analysis**
+
+Ansys (Static Structural · Contact & Mesh Setup) · MATLAB
+
+**Programming**
+
+Python
+
+**Domains**
+
+IC Engines · Automobile Engineering · Powerplant Engineering · Material Science
+
+---
+
+### 🚀 Featured Projects
+
+**🔩 Suspension Shock Absorber — Design & Structural Analysis**
+SolidWorks · Ansys · Static Structural FEA · Contact & Mesh Setup
+
+Designed a complete shock absorber suspension assembly in SolidWorks, modeling the coil spring, piston rod, cylinder, and eye-mount bushings as a multi-body assembly. Performed Static Structural analysis in Ansys — defining frictional and bonded contacts across coil-to-coil, rod-to-cylinder, and bushing interfaces, refining mesh quality via proximity/curvature capture, and resolving solver convergence issues to validate deformation and stress results under axial loading.
+
+**🚲 Cargo Trike — SAE MNNIT**
+SolidWorks · 3D CAD Assembly · Fabrication
+
+Collaborated within a SAE engineering team to design a custom cargo tricycle from scratch, sharing hands-on fabrication duties to translate CAD models into a welded chassis, and integrating real drivetrain components into a functional physical prototype.
+
+**⚙️ Bike Chassis Structural FEA — BLUEPRINT 2024**
+Ansys · Finite Element Analysis · Von Mises Stress
+
+Conducted FEA on a Double Cradle Single-Cylinder Bike Engine chassis, simulating real-world dynamic loading to evaluate stress distribution, strain, and total deformation, and identifying critical stress concentration zones for design optimization.
+
+---
+
+### 🏭 Industrial Training
+
+| Organization | Focus | Duration |
+|---|---|---|
+| Koradi Thermal Power Station (MAHAGENCO) | Rotational training across a 660 MW Supercritical Thermal Power Plant — Boiler, Turbine, Coal Handling, Water Treatment | June – July 2026 |
+| Central Railway, BTC Ajni (C&W) | Undergear inspection, brake gear testing, bogie assembly on LHB & Vande Bharat rolling stock | June – July 2025 |
+
+---
+
+### 🏆 Achievements
+
+| Event | Result |
+|---|---|
+| Blueprint 2024 | 🥈 2nd Rank — 6-Cylinder Radial Engine & Tricycle Assembly |
+| DoodleBot 2024 | 🥈 2nd Rank — Autonomous Pattern-Detecting Bot |
+| Blueprint 2023 | 🎖️ Special Mention — Differential Gearbox & Plumber Block Assembly |
+| BotRush 2023 | 🎖️ Special Mention — Sensor-Driven Surveillance Bot |
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/chaitanyagajbhiye02/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="mailto:chaitanyagajbhiye9999@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
 </p>
 
----
-
-### About Me :
-
-I'm a Mechanical Engineering undergraduate at **Motilal Nehru National Institute of Technology Allahabad**, working at the intersection of **design, structural analysis, and manufacturing**. My core focus is mechanical CAD and FEA — building physical assemblies in SolidWorks and validating them under real-world loading conditions in Ansys.
-
-I'm part of the **Design, Analysis & Suspension Department** at SAE India Collegiate Club, MNNIT, where I've worked on chassis structural analysis, suspension system design, and vehicle prototyping. I've also completed vocational training at **Koradi Thermal Power Station (MAHAGENCO)** and **Central Railway (C&W, Ajni)**, giving me hands-on exposure to industrial mechanical systems, rotating machinery, and rolling-stock maintenance.
-
-Outside my core discipline, I occasionally explore adjacent technical areas — including a reinforcement learning project on quadruped locomotion — as a way to stay sharp on simulation and iterative problem-solving more broadly.
-
----
-
-### Core Skills : 
-
-**Design & Analysis:** SolidWorks · AutoCAD · Ansys (Static Structural, Contact & Mesh Setup) · MATLAB
-**Engineering Fundamentals:** IC Engines · Automobile Engineering · Powerplant Engineering · Material Science
-**Programming:** Python
-
----
-
-### Featured Projects : 
-
-- **Suspension Shock Absorber — Design & Structural Analysis**
-  Designed a complete shock absorber suspension assembly in SolidWorks and performed Static Structural analysis in Ansys, including contact setup, mesh refinement, and solver convergence debugging.
-
-- **Cargo Trike — SAE MNNIT**
-  Designed and fabricated a custom cargo tricycle from CAD to a welded, functional physical prototype, integrating real drivetrain components.
-
-- **Bike Chassis Structural FEA — BLUEPRINT 2024**
-  Performed FEA on a Double Cradle Single-Cylinder Bike Engine chassis, analyzing stress distribution, deformation, and safety factor compliance.
-
----
-
-### Industrial Training : 
-
-- **Koradi Thermal Power Station (MAHAGENCO)** — Rotational training across a 660 MW Supercritical Thermal Power Plant (Boiler, Turbine, Coal Handling, Water Treatment, and more).
-- **Central Railway, BTC Ajni** — Carriage & Wagon maintenance training: undergear inspection, brake gear testing, and bogie assembly.
-
----
-
-### Achievements :
-
-- 🥈 2nd Rank — Blueprint 2024 (6-Cylinder Radial Engine & Tricycle Assembly)
-- 🥈 2nd Rank — DoodleBot 2024 (Autonomous pattern-detecting bot)
-- 🎖️ Special Mention — Blueprint 2023 & BotRush 2023
-
----
-
-<p align="center"><i>Building things in CAD, breaking them in FEA, then figuring out why.</i></p>
+<p align="center"><i>Design it in CAD. Break it in FEA. Fix it before it breaks in real life.</i></p>
