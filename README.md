@@ -5,8 +5,8 @@
 
 ### About Myself : 
 
-- 🎓 B.Tech in Mechanical Engineering @ MNNIT Allahabad (2023–27)
-- 🛠️ Core focus — Mechanical Design, Structural Analysis (FEA), and Suspension Systems
+- B.Tech in Mechanical Engineering @ MNNIT Allahabad (2023–2027)
+- Core Focus : Mechanical Engineering, Design and Analysis.
 - 🏎️ Design, Analysis & Suspension Department Member — SAE India Collegiate Club, MNNIT
 - 🔩 Built a complete Shock Absorber Suspension Assembly in SolidWorks + validated it via Static Structural FEA in Ansys
 - 🚲 Designed and fabricated a Cargo Trike from CAD to a welded, functional physical prototype
