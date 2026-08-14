@@ -8,7 +8,7 @@
 
 ---
 
-### 🔧 About Me
+### About Me :
 
 I'm a Mechanical Engineering undergraduate at **Motilal Nehru National Institute of Technology Allahabad**, working at the intersection of **design, structural analysis, and manufacturing**. My core focus is mechanical CAD and FEA — building physical assemblies in SolidWorks and validating them under real-world loading conditions in Ansys.
 
@@ -18,7 +18,7 @@ Outside my core discipline, I occasionally explore adjacent technical areas — 
 
 ---
 
-### 🛠️ Core Skills
+### Core Skills : 
 
 **Design & Analysis:** SolidWorks · AutoCAD · Ansys (Static Structural, Contact & Mesh Setup) · MATLAB
 **Engineering Fundamentals:** IC Engines · Automobile Engineering · Powerplant Engineering · Material Science
@@ -26,7 +26,7 @@ Outside my core discipline, I occasionally explore adjacent technical areas — 
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects : 
 
 - **Suspension Shock Absorber — Design & Structural Analysis**
   Designed a complete shock absorber suspension assembly in SolidWorks and performed Static Structural analysis in Ansys, including contact setup, mesh refinement, and solver convergence debugging.
@@ -39,14 +39,14 @@ Outside my core discipline, I occasionally explore adjacent technical areas — 
 
 ---
 
-### 🏭 Industrial Training
+### Industrial Training : 
 
 - **Koradi Thermal Power Station (MAHAGENCO)** — Rotational training across a 660 MW Supercritical Thermal Power Plant (Boiler, Turbine, Coal Handling, Water Treatment, and more).
 - **Central Railway, BTC Ajni** — Carriage & Wagon maintenance training: undergear inspection, brake gear testing, and bogie assembly.
 
 ---
 
-### 🏆 Achievements
+### Achievements :
 
 - 🥈 2nd Rank — Blueprint 2024 (6-Cylinder Radial Engine & Tricycle Assembly)
 - 🥈 2nd Rank — DoodleBot 2024 (Autonomous pattern-detecting bot)
