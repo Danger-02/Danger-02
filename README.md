@@ -1,5 +1,5 @@
 <h1 align="center">Hello! , I'm Chaitanya Vishal Gajbhiye</h1>
-<h3 align="center">Mechanical Design & Analysis Engineer · Suspension & Chassis Systems · B.Tech @ MNNIT Allahabad</h3>
+<h3 align="center">Final Year Mechanical Undergrad | MNNIT Allahabad | Summer Intern @MAHAGENCO |  Ex-Summer Intern @Indian Railways
 
 ---
 
