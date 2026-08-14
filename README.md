@@ -7,12 +7,7 @@
 
 - B.Tech in Mechanical Engineering @ MNNIT Allahabad (2023–2027)
 - Core Focus : Mechanical Engineering, Design and Analysis.
-- 🏎️ Design, Analysis & Suspension Department Member — SAE India Collegiate Club, MNNIT
-- 🔩 Built a complete Shock Absorber Suspension Assembly in SolidWorks + validated it via Static Structural FEA in Ansys
-- 🚲 Designed and fabricated a Cargo Trike from CAD to a welded, functional physical prototype
-- 🏭 Industrial training at Koradi Thermal Power Station (MAHAGENCO) and Central Railway (C&W, Ajni)
-- 🥈 2× Podium Finishes — Blueprint 2024 & DoodleBot 2024 (Avishkar Technical Fest, MNNIT)
-- 🎯 Open to Design Engineering & Mechanical Internship Opportunities
+- 🎯 Open to Design Engineering & Mechanical Placement Opportunities
 
 ---
 
