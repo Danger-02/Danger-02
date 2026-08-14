@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chaitanya Vishal Gajbhiye 👋</h1>
+<h1 align="center">Hi, I'm Chaitanya Vishal Gajbhiye </h1>
 <h3 align="center">Mechanical Engineering Student at MNNIT Allahabad</h3>
 
 <p align="center">
